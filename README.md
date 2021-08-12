@@ -1,10 +1,10 @@
-<h1 align='center'>
-  Hi! I'm Joey 👩🏻‍💻
-</h1>
+<h3 align='center'>
+Hi, I'm Joey 👩🏻‍💻
+</h3>
 <p align='center'> 
-  <a href="https://joeyqlim.com/blog">✏️</a>&nbsp;
-  <a href="https://www.flickr.com/photos/limjoeypics/">📷
-  </a>
+  <a href="https://joeyqlim.com/blog">✍️</a>&nbsp;
+  <a href="https://www.flickr.com/photos/limjoeypics/">📸</a>&nbsp;
+  <a href="https://joeyqlim.github.io/pet-the-catto/">🐱</a>
 </p>
 
 <p align='center'> 
